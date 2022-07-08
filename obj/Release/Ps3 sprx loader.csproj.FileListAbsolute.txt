@@ -1,0 +1,52 @@
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\buildppc.bat
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\spu-lv2-objcopy.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\spu-lv2-as.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Sprx Loader.exe.config
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\ps3tmapi_net.dll
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Ps3 sprx loader.csprojAssemblyReference.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Form1.resources
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Properties.Resources.resources
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.GenerateResource.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CoreCompileInputs.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CopyComplete
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\Sprx Loader.exe.config
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\ps3tmapi_net.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\Ps3 sprx loader.csprojAssemblyReference.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Form1.resources
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Properties.Resources.resources
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.GenerateResource.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CoreCompileInputs.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CopyComplete
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\PS3Lib.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copie\PS3 Toolbox\bin\Release\PS3Lib.xml
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\Sprx Loader.exe.config
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\PS3Lib.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\ps3tmapi_net.dll
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\bin\Release\PS3Lib.xml
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\Ps3 sprx loader.csprojAssemblyReference.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Form1.resources
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Properties.Resources.resources
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.GenerateResource.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CoreCompileInputs.cache
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\Ps3 sprx loader.csproj.CopyComplete
+C:\Users\Mini Franco\Desktop\Wizimodztoooooooool - Copiex\PS3 Toolbox\obj\Release\Sprx Loader.exe
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\PS3_SPRX_Loader.Form1.resources
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\PS3_SPRX_Loader.Properties.Resources.resources
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\Ps3 sprx loader.csproj.GenerateResource.cache
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\Ps3 sprx loader.csproj.CoreCompileInputs.cache
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\Sprx Loader.exe
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\Sprx Loader.exe.config
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\Sprx Loader.exe
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\Be.Windows.Forms.HexBox.dll
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\PS3Lib.dll
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\ps3tmapi_net.dll
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\bin\Release\PS3Lib.xml
+Z:\backup\Bureau fin 2019\Wizimodztoooooooool - Copiex\PS3_SPRX_INJECTOR\obj\Release\Ps3 sprx loader.csproj.CopyComplete

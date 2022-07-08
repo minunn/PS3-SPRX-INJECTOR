@@ -1,0 +1,14 @@
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\buildppc.bat
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\spu-lv2-objcopy.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\PPC\spu-lv2-as.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Sprx Loader.exe.config
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Sprx Loader.exe
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\bin\Release\ps3tmapi_net.dll
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3 Toolbox.csprojAssemblyReference.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Form1.resources
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3_SPRX_Loader.Properties.Resources.resources
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3 Toolbox.csproj.GenerateResource.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3 Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\PS3 Toolbox.csproj.CopyComplete
+C:\Users\Mini Franco\Desktop\PS3-Toolbox-master\PS3 Toolbox\obj\Release\Sprx Loader.exe
